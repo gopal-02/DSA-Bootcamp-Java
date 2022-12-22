@@ -57,4 +57,5 @@ public class Loops {
         } while (n != 1);
 
     }
+
 }
